@@ -1,6 +1,6 @@
  
 
-# Hi there, I'm Anurag! 👋
+# Hi there, I'm Anurag! 👋 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;AI+Researcher+%40+IIT+Ropar;NLP+%7C+LLMs+%7C+AI+Agents)](https://git.io/typing-svg)
 
