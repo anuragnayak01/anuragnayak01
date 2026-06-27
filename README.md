@@ -66,7 +66,7 @@ const anurag = {
 ## 🌱 What I'm Currently Working On
 
 - 🔭 **Researching** FAQ generation from student query data @ Vicharanashala Lab, IIT Ropar
-- 🧪 **Building** USSN — a deep learning pipeline for soil property prediction from MIR spectroscopy
+- 🧪 **Building**  A deep learning pipeline for soil property prediction from MIR spectroscopy
 - 📄 **Writing** research papers in computer vision and biometrics
 - 🤖 **Exploring** LLMs, AI Agents, and multi-agent system architectures
 - ⚡ **Competing** on Kaggle and building end-to-end AI solutions
