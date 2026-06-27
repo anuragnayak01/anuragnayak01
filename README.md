@@ -15,7 +15,7 @@
 const anurag = {
     role: "Research Intern @ Vicharanashala Lab, IIT Ropar",
     education: "BTech CSE (Data Science & Analytics) @ IIIT Nagpur",
-    cgpa: "7.77 / 10",
+    cgpa: "7.73 / 10",
     location: "Sagar, Madhya Pradesh, India 🇮🇳",
     timezone: "UTC +05:30",
     funFact: "Top 3% in JEE Main 2023 (97.01 percentile) → now turning data into models 📊🤖"
