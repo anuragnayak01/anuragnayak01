@@ -3,8 +3,8 @@
 # Anurag Nayak
 
 
+<img width="442" height="645" alt="image" src="https://github.com/user-attachments/assets/21dd7187-b6fc-458a-8c76-b0e84aae0e49" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;AI+Researcher+%40+IIT+Ropar;NLP+%7C+LLMs+%7C+AI+Agents)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anuragnayak01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/anuragnayak01)
 [![GitHub Followers](https://img.shields.io/github/followers/anuragnayak01?label=Followers&style=social)](https://github.com/anuragnayak01?tab=followers)
