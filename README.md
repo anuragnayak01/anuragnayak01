@@ -2,7 +2,7 @@
 
 # Anurag Nayak
 
-<pre>
+<pre style="font-size:7px; line-height:7px;">
                                              ......                                                 
                                      .....-+%@@@@@@@@%#+:.....                                      
                                  ...*%@@@@@@%%%%%@@@@@@@@@@%+..                                     
