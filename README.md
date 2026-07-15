@@ -1,8 +1,8 @@
- 
+<div align="center">
 
-# Anurag Nayak ...
+# Anurag Nayak
 
-                                                                                                    
+<pre>
                                              ......                                                 
                                      .....-+%@@@@@@@@%#+:.....                                      
                                  ...*%@@@@@@%%%%%@@@@@@@@@@%+..                                     
@@ -61,8 +61,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+</pre>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;AI+Researcher+%40+IIT+Ropar;NLP+%7C+LLMs+%7C+AI+Agents)](https://git.io/typing-svg)
 
@@ -84,13 +84,10 @@ const anurag = {
 };
 ```
 
-
- 
-
 ## 🌱 What I'm Currently Working On
 
 - 🔭 **Researching** FAQ generation from student query data @ Vicharanashala Lab, IIT Ropar
-- 🧪 **Building**  A deep learning pipeline for soil property prediction from MIR spectroscopy
+- 🧪 **Building** A deep learning pipeline for soil property prediction from MIR spectroscopy
 - 📄 **Writing** research papers in computer vision and biometrics
 - 🤖 **Exploring** LLMs, AI Agents, and multi-agent system architectures
 - ⚡ **Competing** on Kaggle and building end-to-end AI solutions
@@ -98,5 +95,5 @@ const anurag = {
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-nayak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://anuragnayak01.github.io) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://anuragnayak01.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragnayak732@gmail.com)
