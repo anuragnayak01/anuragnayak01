@@ -3,7 +3,7 @@
 # Anurag Nayak
 
 
-<img width="442" height="645" alt="image" src="https://github.com/user-attachments/assets/21dd7187-b6fc-458a-8c76-b0e84aae0e49" />
+<img width="442" height="500" alt="image" src="https://github.com/user-attachments/assets/21dd7187-b6fc-458a-8c76-b0e84aae0e49" />
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anuragnayak01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/anuragnayak01)
