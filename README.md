@@ -2,8 +2,7 @@
 
  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90C2,100:87CEEB&height=220&section=header&text=Anurag%20Nayak&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Kaggle%20Competitor&descAlignY=48&descSize=16&descColor=ffffff" />
- 
+
 [![Profile Views](https://komarev.com/ghpvc/?username=anuragnayak01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/anuragnayak01)
 [![GitHub Followers](https://img.shields.io/github/followers/anuragnayak01?label=Followers&style=social)](https://github.com/anuragnayak01?tab=followers)
 
@@ -50,9 +49,4 @@ const anurag = {
 **Tools & platforms:** `Git` `GitHub` `FastAPI` `Docker` `VS Code` `Jupyter Notebook` `Google Colab` `Power BI` `Tableau`
  
 
-</div>
 
-<div align="center">
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-</div>
