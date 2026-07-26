@@ -37,17 +37,18 @@ const anurag = {
 
 <br clear="left" />
 
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
+## Tech stack
+ 
+**Languages:** `Python` `C++` `SQL` `Java`
+ 
+**AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, VLMs, AI Agents, Explainable AI, RAG, Fine-tuning, Prompt Engineering, Feature Engineering, Model Deployment
+ 
+**Frameworks & libraries:** `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `Hugging Face Transformers` `LangChain` `LangGraph` `CrewAI` `LlamaIndex` `OpenCV` `MediaPipe` `YOLOv8` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+ 
+**Databases & vector stores:** `SQLite` `PostgreSQL` `ChromaDB`
+ 
+**Tools & platforms:** `Git` `GitHub` `FastAPI` `Docker` `VS Code` `Jupyter Notebook` `Google Colab` `Power BI` `Tableau`
+ 
 
 </div>
 
