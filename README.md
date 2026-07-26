@@ -14,7 +14,7 @@
 
 <div>
 
-### 🙋‍♂️ About Me
+###  About Me
 
 ```js
 const anurag = {
@@ -28,6 +28,7 @@ const anurag = {
 
  
 **🤝 Let's Connect!**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-nayak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://anuragnayak01.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragnayak732@gmail.com)
@@ -40,7 +41,7 @@ const anurag = {
  
 **Languages:** `Python` `C++` `SQL` `Java`
  
-**AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, VLMs, AI Agents, Explainable AI, RAG, Fine-tuning, Prompt Engineering, Feature Engineering, Model Deployment
+**AI/ML:** `Machine Learning`, `Deep Learning`, `NLP`, `Computer Vision`, `LLMs`, `VLMs`, `AI Agents`, `Explainable AI`, `RAG, `Fine-tuning, `Prompt Engineering`, `Feature Engineering`, `Model Deployment`
  
 **Frameworks & libraries:** `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `Hugging Face Transformers` `LangChain` `LangGraph` `CrewAI` `LlamaIndex` `OpenCV` `MediaPipe` `YOLOv8` `Pandas` `NumPy` `Matplotlib` `Seaborn`
  
