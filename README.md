@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=140&text=Anurag%20Nayak&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Kaggle%20Competitor&descAlignY=65&descSize=16&descColor=ffffff" />
+ 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90C2,100:87CEEB&height=220&section=header&text=Anurag%20Nayak&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Kaggle%20Competitor&descAlignY=48&descSize=16&descColor=ffffff" />
+ 
 [![Profile Views](https://komarev.com/ghpvc/?username=anuragnayak01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/anuragnayak01)
 [![GitHub Followers](https://img.shields.io/github/followers/anuragnayak01?label=Followers&style=social)](https://github.com/anuragnayak01?tab=followers)
 
@@ -25,13 +27,7 @@ const anurag = {
 };
 ```
 
-**🌱 What I'm Currently Working On**
-- 🔭 **Researching** FAQ generation from student query data @ Vicharanashala Lab, IIT Ropar
-- 🧪 **Building** a deep learning pipeline for soil property prediction from MIR spectroscopy
-- 📄 **Writing** research papers in computer vision and biometrics
-- 🤖 **Exploring** LLMs, AI Agents, and multi-agent system architectures
-- ⚡ **Competing** on Kaggle and building end-to-end AI solutions
-
+ 
 **🤝 Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-nayak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://anuragnayak01.github.io)
@@ -51,29 +47,8 @@ const anurag = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br>
 
-## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[SPECTRA-FUSION](#)** | Soil MIR spectroscopy pipeline predicting six soil properties (Carbon, Clay, Bulk Density, Calcium, Carbonate, pH) from ~877 samples × ~1,519 spectral channels | Deep Learning, PyTorch, PLSR |
-| **[NeuroGolf / ARC-OS](#)** | ONNX neural pipelines reproducing ARC-AGI grid transformations for the NeuroGolf 2026 (IJCAI-ECAI) competition — primitive registry + perception/reasoning/compiler modules | ONNX, Python |
-| **[TrueCandidate ("Sherlock")](#)** | Biometric candidate identification system using face & voice embeddings with a Playwright-based Zoom bot | FastAPI, Render, Vercel, Playwright |
-| **[Traffic Road Conflict Analysis](#)** | YOLOv8-based traffic safety analysis, deployed as a live Streamlit demo | YOLOv8, Streamlit |
-| **[Predicting Stellar Class](#)** | Astronomical object classification (Galaxy / QSO / Star) — Kaggle Playground S6E6 | LightGBM, XGBoost, CatBoost |
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anuragnayak01&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragnayak01&layout=compact&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragnayak01&hide_border=true" />
 </div>
 
 <div align="center">
