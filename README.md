@@ -1,12 +1,4 @@
-<div align="center">
 
- 
-
-
-[![Profile Views](https://komarev.com/ghpvc/?username=anuragnayak01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/anuragnayak01)
-[![GitHub Followers](https://img.shields.io/github/followers/anuragnayak01?label=Followers&style=social)](https://github.com/anuragnayak01?tab=followers)
-
-</div>
 
 <br>
 
@@ -48,6 +40,14 @@ const anurag = {
 **Databases & vector stores:** `SQLite` `PostgreSQL` `ChromaDB`
  
 **Tools & platforms:** `Git` `GitHub` `FastAPI` `Docker` `VS Code` `Jupyter Notebook` `Google Colab` `Power BI` `Tableau`
+ <div align="center">
+
  
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=anuragnayak01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/anuragnayak01)
+[![GitHub Followers](https://img.shields.io/github/followers/anuragnayak01?label=Followers&style=social)](https://github.com/anuragnayak01?tab=followers)
+
+</div>
 
 
