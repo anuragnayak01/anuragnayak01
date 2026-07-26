@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-```js
+
 const anurag = {
     role: "Research Intern @ Vicharanashala Lab, IIT Ropar",
     education: "BTech CSE (Data Science & Analytics) @ IIIT Nagpur",
