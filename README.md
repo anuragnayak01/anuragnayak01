@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Anurag Nayak 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Anurag%20Nayak&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Kaggle%20Competitor&descAlignY=68&descSize=18" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anuragnayak01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/anuragnayak01)
 [![GitHub Followers](https://img.shields.io/github/followers/anuragnayak01?label=Followers&style=social)](https://github.com/anuragnayak01?tab=followers)
@@ -9,12 +9,9 @@
 
 <br>
 
-<table>
-<tr>
-<td width="320" valign="top">
-  <img width="300" height="340" alt="Anurag Nayak" src="https://github.com/user-attachments/assets/21dd7187-b6fc-458a-8c76-b0e84aae0e49" />
-</td>
-<td valign="top">
+<img align="left" width="200" src="https://github.com/user-attachments/assets/21dd7187-b6fc-458a-8c76-b0e84aae0e49" />
+
+<div>
 
 ### 🙋‍♂️ About Me
 
@@ -24,7 +21,6 @@ const anurag = {
     education: "BTech CSE (Data Science & Analytics) @ IIIT Nagpur",
     cgpa: "7.73 / 10",
     location: "Sagar, Madhya Pradesh, India 🇮🇳",
-    timezone: "UTC +05:30",
     funFact: "Top 3% in JEE Main 2023 (97.01 percentile) → now turning data into models 📊🤖"
 };
 ```
@@ -37,14 +33,23 @@ const anurag = {
 - ⚡ **Competing** on Kaggle and building end-to-end AI solutions
 
 **🤝 Let's Connect!**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-nayak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://anuragnayak01.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragnayak732@gmail.com)
 
-</td>
-</tr>
-</table>
+</div>
+
+<br clear="left" />
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br>
 
@@ -60,22 +65,6 @@ const anurag = {
 
 <br>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -85,4 +74,9 @@ const anurag = {
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragnayak01&hide_border=true" />
+</div>
+
+<div align="center">
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </div>
