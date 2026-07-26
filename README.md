@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Anurag%20Nayak&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Kaggle%20Competitor&descAlignY=68&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=140&text=Anurag%20Nayak&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Kaggle%20Competitor&descAlignY=65&descSize=16&descColor=ffffff" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anuragnayak01&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/anuragnayak01)
 [![GitHub Followers](https://img.shields.io/github/followers/anuragnayak01?label=Followers&style=social)](https://github.com/anuragnayak01?tab=followers)
