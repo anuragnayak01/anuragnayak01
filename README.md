@@ -9,6 +9,11 @@
  
 
 ```js
+
+
+
+
+
 const anurag = {
     role: "Research Intern @ Vicharanashala Lab, IIT Ropar",
     education: "BTech CSE (Data Science & Analytics) @ IIIT Nagpur",
@@ -16,10 +21,13 @@ const anurag = {
     location: "Sagar, Madhya Pradesh, India 🇮🇳",
     funFact: "Top 3% in JEE Main 2023 (97.01 percentile) → now turning data into models 📊🤖"
 };
+
+
+
+
 ```
 
- 
-** Let's Connect!**
+  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-nayak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://anuragnayak01.github.io)
