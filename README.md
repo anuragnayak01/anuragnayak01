@@ -23,7 +23,8 @@ const anurag = {
     education: "BTech CSE (Data Science & Analytics) @ IIIT Nagpur",
     cgpa: "7.73 / 10",
     location: "Sagar, Madhya Pradesh, India 🇮🇳",
-    funFact: "Top 3% in JEE Main 2023 (97.01 percentile) → now turning data into models 📊🤖"
+    funFact: "Top 3% in JEE Main 2023 (97.01 percentile)
+               → now turning data into models 📊🤖"
 };
 
 
