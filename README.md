@@ -19,16 +19,10 @@ const anurag = {
                → now turning data into models 📊🤖"
 };
 
-Tech Stack:
 
-Programming Languages: Python, C++, SQL, Java
-AI/ML: Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision (CV), Large
-Language Models (LLMs), Vision Language Models (VLMs), AI Agents, Explainable AI (XAI), Retrieval-Augmented
-Generation (RAG), Fine-tuning, Prompt Engineering, Feature Engineering, Model Deployment
-Frameworks & Libraries: PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face Transformers, LangChain,
-LangGraph, CrewAI, LlamaIndex, OpenCV, MediaPipe, YOLOv8, Pandas, NumPy, Matplotlib, Seaborn
-Databases & Vector Stores: SQLite, PostgreSQL, ChromaDB
-Tools & Platforms: Git, GitHub, FastAPI, Docker, VS Code, Jupyter Notebook, Google Colab, Power BI, Tableau
+Seeking Roles :  AI Researcher
+                 AI Engineer
+
 ```
 
   
@@ -39,8 +33,19 @@ Tools & Platforms: Git, GitHub, FastAPI, Docker, VS Code, Jupyter Notebook, Goog
 
 </div>
 
- 
+```js
+Tech Stack:
 
+Programming Languages: Python, C++, SQL, Java
+AI/ML: Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision (CV), Large
+Language Models (LLMs), Vision Language Models (VLMs), AI Agents, Explainable AI (XAI), Retrieval-Augmented
+Generation (RAG), Fine-tuning, Prompt Engineering, Feature Engineering, Model Deployment
+Frameworks & Libraries: PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face Transformers, LangChain,
+LangGraph, CrewAI, LlamaIndex, OpenCV, MediaPipe, YOLOv8, Pandas, NumPy, Matplotlib, Seaborn
+Databases & Vector Stores: SQLite, PostgreSQL, ChromaDB
+Tools & Platforms: Git, GitHub, FastAPI, Docker, VS Code, Jupyter Notebook, Google Colab, Power BI, Tableau
+
+```
  <div align="center">
 
  
