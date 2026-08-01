@@ -6,7 +6,7 @@
 
 <div>
 
-###  About Me
+ 
 
 ```js
 const anurag = {
@@ -19,7 +19,7 @@ const anurag = {
 ```
 
  
-**🤝 Let's Connect!**
+** Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-nayak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://anuragnayak01.github.io)
