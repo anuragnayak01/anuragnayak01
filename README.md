@@ -22,7 +22,8 @@ const anurag = {
 
 Seeking Roles :  AI Researcher
                  AI Engineer
-
+                 Data Scientist
+                 Data Analyst
 ```
 
   
@@ -37,6 +38,8 @@ Seeking Roles :  AI Researcher
 </br>
 
 ```js
+
+
 Tech Stack:
 
 Programming Languages: Python, C++, SQL, Java
