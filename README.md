@@ -34,7 +34,7 @@ Seeking Roles :  AI Researcher
 </div>
 <br align="left">
 
-
+</br>
 
 ```js
 Tech Stack:
