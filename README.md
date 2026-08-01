@@ -10,14 +10,6 @@
 
 ```js
 
-
-
-
-
-
-
-
-
 const anurag = {
     role: "Research Intern @ Vicharanashala Lab, IIT Ropar",
     education: "BTech CSE (Data Science & Analytics) @ IIIT Nagpur",
@@ -26,8 +18,6 @@ const anurag = {
     funFact: "Top 3% in JEE Main 2023 (97.01 percentile)
                → now turning data into models 📊🤖"
 };
-
-
 
 
 ```
