@@ -31,7 +31,7 @@ const anurag = {
 </div>
 
 <br clear="left" />
-
+```js
 ## Tech stack
  
 **Languages:** `Python` `C++` `SQL` `Java`
@@ -43,6 +43,8 @@ const anurag = {
 **Databases & vector stores:** `SQLite` `PostgreSQL` `ChromaDB`
  
 **Tools & platforms:** `Git` `GitHub` `FastAPI` `Docker` `VS Code` `Jupyter Notebook` `Google Colab` `Power BI` `Tableau`
+
+```
  <div align="center">
 
  
@@ -53,4 +55,4 @@ const anurag = {
 
 </div>
 
-
+ 
