@@ -23,10 +23,10 @@ const anurag = {
 
 
 
-Seeking Roles :  AI Researcher
-                 AI Engineer
-                 Data Scientist
-                 Data Analyst
+
+
+Seeking Intern Roles :
+ AI Researcher  AI Engineer   Data Scientist  Data Analyst
 ```
 
   
