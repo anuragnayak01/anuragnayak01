@@ -38,7 +38,6 @@ Seeking Intern Roles :
 
 </div>
 <br align="left">
-
 </br>
 
 ```js
